@@ -1,1 +1,1 @@
-# FrameNet-CFN-Lex
+# NTU Chinese FrameNet Lexicon (CFN-Lex)
