@@ -15,7 +15,8 @@ As the example shown as follows, words such as '客人', '來訪者', '遊客', 
 }
 ```
 # Download
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/FrameNet/CFN-Lex/) to access resources.
+[Traditional Chinese download link](http://nlg.csie.ntu.edu.tw/nlpresource/FrameNet/CFN-Lex/CFN_LEX_ZHTW.json).
+[Simplified Chinese download link](http://nlg.csie.ntu.edu.tw/nlpresource/FrameNet/CFN-Lex/CFN_LEX_CN.json).
 
 # How to Cite this Resource
 Please cite the following paper when referring to CFN-Lex in academic publications and papers.
